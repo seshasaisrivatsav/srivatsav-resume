@@ -18,3 +18,7 @@ It is built using css HTML.
   <li>http://www.seshasaisrivatsav.com/</li>
   <li>https://www.linkedin.com/in/seshasaisrivatsav</li>
 </ul>
+
+
+<h1>License</h1>
+<p><a href="https://github.com/seshasaisrivatsav/srivatsav-resume/blob/master/LICENSE">License</a></p>
